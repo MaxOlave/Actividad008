@@ -1,0 +1,57 @@
+body {
+	background-image: url(images/spring.png);
+}
+.footer {
+	border-style: dotted;
+}
+
+.titulo {
+		margin-top: 62px;
+		color: red;
+		text-decoration: underline;
+
+	}
+	.img1 {
+		margin-top: 40px;
+		margin-left : 10px;
+		margin-right : 10px;
+		margin-bottom: 10px;
+	}
+
+	.img2 {
+		margin: 40px;
+		margin-bottom: 40px;
+
+	}
+	#img3 {
+		border-image: stretch;
+    	vertical-align: middle;
+    	border-style: solid;
+
+	}
+	div{
+		font-family: Helvetica, Arial, sans-serif;
+	}
+
+	/* estilo de index */
+
+	.actividad{
+		font-family: Courier, "Lucida Console", monospace;
+		color: red;
+
+	}
+
+	.noticia{
+		font-family: Helvetica, Arial, sans-serif;
+		border:#FF4500 2px solid;
+
+
+	}
+	.noticia1{
+		padding: 20px;
+
+	}
+
+	.unidad{
+		padding: 30px;
+	}
